@@ -1,10 +1,4 @@
-Here's the **updated README** with **custom classification support, future improvements, and complete code** for your project! 🚀  
 
----
-
-### **README.md**  
-
-```markdown
 # 📄 Automating Research Paper Analysis with AI  
 
 🚀 **Automating Research Paper Analysis** is an AI-powered tool that **scrapes, categorizes, and analyzes research papers** from NeurIPS. It fetches paper details, assigns AI-based categories, and provides structured CSV downloads for easy analysis.  
@@ -216,10 +210,3 @@ This project is licensed under the **MIT License**.
 ---
 ```
 
-### **What’s New in This README?**  
-✅ **Users can manually assign labels**  
-✅ **Future improvements include user-defined categories**  
-✅ **Complete Python code for scraping, classification, and web app**  
-✅ **Covers challenges & solutions**  
-
-Let me know if you need any tweaks! 😊🔥
